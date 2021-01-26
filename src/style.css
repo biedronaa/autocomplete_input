@@ -1,0 +1,9 @@
+input, div.list {
+    padding: 10px;
+    width: 200px;
+    box-sizing: border-box;
+}
+
+div.list {
+    border: 1px solid black;
+}
