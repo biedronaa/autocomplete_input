@@ -1,5 +1,5 @@
 # autocomplete input
-Simple react.js app uses axios.
+Simple react.js app uses fake api https://jsonplaceholder.typicode.com/users.
 
 #### Table of contents
 * [General info](#general-info)
